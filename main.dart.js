@@ -40759,7 +40759,7 @@ s=n.eJ(a,"Meat Weight: ",s+(r==="Other"?n.Q.a.a:r))
 r=n.eJ(a,"Final Weight: ",n.cx.a.a+"lbs")
 q=n.dx.a.a+" "+n.dy+"(s)  of "
 p=n.cy
-o=A.eG(A.b([l,k,j,s,r,n.eJ(a,"Cure: ",q+(p==="Other"?n.db.a.a:p)),n.eJ(a,"Ingredients: ",B.e.i(n.fy.length)),n.eJ(a,"Last Edited By: ",n.rx.cy)],t.p),m,!1)
+o=A.bx(A.b([l,k,j,s,r,n.eJ(a,"Cure: ",q+(p==="Other"?n.db.a.a:p)),n.eJ(a,"Ingredients: ",B.e.i(n.fy.length)),n.eJ(a,"Last Edited By: ",n.rx.cy)],t.p),B.n,B.p,B.m)
 n.id.a=!1
 if(!b){l=t.w
 n.a2=A.A(m,o,B.f,m,m,m,m,a.v(l).f.a.b*0.4,m,m,m,m,a.v(l).f.a.a*0.8)
@@ -40871,7 +40871,7 @@ h=A.A(a0,A.bx(A.b([A.A(a0,A.bx(A.b([r,d,A.b3(A.b([A.n6(A.anF(a2,e,f,a.k3,a.gahQ(
 g=p*0.75
 c=m/2
 c=A.b3(A.b([A.cd(a2,g,c,A.d1(B.ef,B.j),a.gB3(),a2,B.bU),A.cd(a2,g,c,A.d1(B.ei,B.j),a.gq_(),a2,B.bT)],n),B.n,B.cv,B.m)
-return A.ar_(A.kF(s,a0,A.fj(a0,A.atg(A.b([new A.b8(B.k2,o,a0),l,A.bx(A.b([j,i,h,A.A(a0,A.bx(A.b([c,a.go.a?A.am("An Error was encounted.",a0,a0,a0,a0,B.fa,a0,a0):A.A(a0,a0,B.f,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],n),B.n,B.p,B.m),B.f,a0,a0,a0,a0,a0,a0,a0,a0,a0,k.a.a*0.4)],n),B.n,B.p,B.m)],n)),B.H,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.a3a(a2),a0,a0,a0,a0,a0,a0),a0),3)}}
+return A.ar_(A.kF(s,a0,A.fj(a0,A.atg(A.b([new A.b8(B.k2,o,a0),l,A.eG(A.b([j,i,h,A.A(a0,A.bx(A.b([c,a.go.a?A.am("An Error was encounted.",a0,a0,a0,a0,B.fa,a0,a0):A.A(a0,a0,B.f,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0)],n),B.n,B.p,B.m),B.f,a0,a0,a0,a0,a0,a0,a0,a0,a0,k.a.a*0.4)],n),a0,!1)],n)),B.H,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.a3a(a2),a0,a0,a0,a0,a0,a0),a0),3)}}
 A.a3t.prototype={
 $0(){this.a.r2[this.b]=this.c},
 $S:0}
